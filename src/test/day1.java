@@ -13,6 +13,8 @@ public class day1 {
 	public void lastexecution()
 	{
 		System.out.println("I will execute last");
+		System.out.println("I will execute last1");
+		System.out.println("I will execute last2");
 		
 	}
 	@Test
