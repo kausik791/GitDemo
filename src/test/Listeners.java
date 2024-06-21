@@ -20,6 +20,11 @@ public class Listeners implements ITestListener {
 	//	System.out.println("I successfully executed Listeners Pass code");
 	}
 
+	public void onTestSuccess1(ITestResult result) {
+		// TODO Auto-generated method stub
+		
+	//	System.out.println("I successfully executed Listeners Pass code");
+	}
 	@Override
 	public void onTestFailure(ITestResult result) {
 		// TODO Auto-generated method stub
