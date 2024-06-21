@@ -16,6 +16,13 @@ public class day1 {
 		System.out.println("I will execute last1");
 		System.out.println("I will execute last2");
 		
+		//stuff
+		
+		System.out.println("I will execute last4");
+		System.out.println("I will execute last5");
+		System.out.println("I will execute last6");
+		
+		
 	}
 	@Test
 	public void Demo()
