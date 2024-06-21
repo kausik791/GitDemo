@@ -31,4 +31,10 @@ public class day4 {
 		//Rest API automation
 		System.out.println("APIloginHome");
 	}
+	@Test
+	public void LoginAPIHomeLoan1()
+	{
+		//Rest API automation
+		System.out.println("APIloginHome1");
+	}
 }

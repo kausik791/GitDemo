@@ -18,4 +18,10 @@ public class day2 {
 	{
 		System.out.println("I will execute first");
 	}
+	
+	@BeforeTest
+	public void prerequiste1()
+	{
+		System.out.println("I will execute first1");
+	}
 }

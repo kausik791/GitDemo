@@ -30,6 +30,13 @@ public class day1 {
 		System.out.println("hello");//automation
 		Assert.assertTrue(false);
 	}
+	
+	@Test
+	public void Demo1()
+	{
+		System.out.println("hello1");//automation
+		Assert.assertTrue(false);
+	}
 	@AfterSuite
 	
 	public void afSyite()
